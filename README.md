@@ -18,6 +18,6 @@ main.tf файл - https://github.com/avpakhomov/terraform-yandex2/blob/main/mai
 ![image](https://user-images.githubusercontent.com/16622507/146677012-5517e40a-eabb-4263-b3d9-eb025308ac47.png)
 
 
-![image](https://user-images.githubusercontent.com/16622507/146677020-e5b6768f-5767-4e87-b7a8-8e435e917a22.png)
+![image](https://user-images.githubusercontent.com/16622507/146677198-745f14ae-f931-4731-8fa9-0b52a77fe31f.png)
 
 
